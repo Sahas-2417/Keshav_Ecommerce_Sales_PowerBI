@@ -1,4 +1,6 @@
 # Keshav_Ecommerce_Sales_PowerBI
+![Keshav E-Commerce Sales Dashboard](dashboard.png)
+
 Beginner Power BI learning project featuring an E-commerce sales dashboard with KPIs, slicers, and business insights.
 
 This project is a **Power BI learning dashboard** created as part of my hands-on practice while following a guided tutorial.
