@@ -43,6 +43,16 @@ E-commerce Sales Dashboard, covering data modeling, visuals, KPIs, and interacti
 2. Open it in **Power BI Desktop**  
 3. Interact with slicers and visuals to explore insights  
 
+# Dataset Overview
+The dataset contains e-commerce sales data including:
+- Order amount
+- Profit
+- Quantity sold
+- Product categories
+- Customer states
+- Payment modes
+- Monthly and quarterly sales information
+
 # Note
 This is a **guided learning project**, recreated and customized for practice and portfolio purposes
 to strengthen my Power BI fundamentals.
